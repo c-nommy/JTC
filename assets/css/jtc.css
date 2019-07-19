@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content:space-around;
+    background-color: #2e2e2e;
+    color: #fff;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px 50px;
+    margin: 0;
+  }
+
+  .top {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    background-image: url('../img/jtc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: #fff;
+    margin: 0;
+    }
+  
+
+
+.dropdown {
+    float: right
+    padding: 20;
+}
+
+.btn{
+  float: right;
+}
